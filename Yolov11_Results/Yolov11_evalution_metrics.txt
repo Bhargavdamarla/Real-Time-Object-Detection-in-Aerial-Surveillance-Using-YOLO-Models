@@ -1,0 +1,6 @@
+YOLOv11 VisDrone Evaluation Results
+----------------------------------
+mAP@0.5: 0.77002
+mAP@0.5:0.95: 0.50901
+Precision: 0.87012
+Recall: 0.81001
